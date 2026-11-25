@@ -82,6 +82,7 @@ Assets
 ### Audio Assets
 
 * :free: [GameSounds](https://gamesounds.xyz/) - Archive of royalty-free game sounds. 
+* :free: [Circuit UI SFX Free Sample](https://secondwindmc.github.io/free-retro-game-sound-effects.html) - Twelve CC0 retro game sound effects in WAV format. 
 * :free: [FreePD](http://freepd.com/) - Public Domain Music 
 * :free: [FreeSFX](http://www.freesfx.co.uk/) - free sound effects 
 * :free: [Freesound](http://www.freesound.org/) -  collaborative database of Creative Commons Licensed sounds 
